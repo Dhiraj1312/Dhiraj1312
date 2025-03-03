@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Dhiraj1312.io)
 <h1 align="center">Hi 👋, I'm Dhiraj Bhagat</h1>
 <h3 align="center">"AI Enthusiast | Data Science Explorer | Code Innovator" 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1312&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1312" /> </p>
 
