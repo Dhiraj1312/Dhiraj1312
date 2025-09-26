@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP,Deep Learning**
 
-- 💬 Ask me about **Machine Learning,Data structures,Django and Data Science**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LangChain, LangGraph, Hugging Face, Data structures and Data Science**
 
 - 📫 How to reach me **dhirajbhagat1312@gmail.com**
 
