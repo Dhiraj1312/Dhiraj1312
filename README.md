@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1312&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1312" /> </p>
 
-- 🌱 I’m currently learning **NLP,Deep Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LangChain, LangGraph, Hugging Face, Data structures and Data Science**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Data structures and Data Science**
 
 - 📫 How to reach me **dhirajbhagat1312@gmail.com**
 
