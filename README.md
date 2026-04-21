@@ -15,13 +15,10 @@
 
 <p align="center">
   <a href="https://portfolio-dhiraj1312.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀 View My Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhiraj1312&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
