@@ -1,30 +1,108 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://Dhiraj1312.io)
-<h1 align="center">Hi 👋, I'm Dhiraj Bhagat</h1>
-<h3 align="center">"AI Enthusiast | Data Science Explorer | Code Innovator" 🚀</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj1312&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj1312" /> </p>
-
-- 🌱 I’m currently learning **Agentic AI**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Data structures and Data Science**
-
-- 📫 How to reach me **dhirajbhagat1312@gmail.com**
-
-- ⚡ Fun fact **Techsavvy! ⚡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhiraj-bhagat-116534257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhiraj-bhagat-116534257/" height="30" width="40" /></a>
-<a href="https://instagram.com/name_isdhiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_isdhiraj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhiraj1312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhiraj1312" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhiraj_bhagat1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhiraj_bhagat1312" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gfg(< dhirajbhaoeqm >/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(< dhirajbhaoeqm >/profile)" height="30" width="40" /></a>
+<!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhiraj1312/dhiraj1312/main/banner.png" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-dhiraj1312.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Dhiraj+Bhagat;AI+Engineer+%7C+Data+Science+Explorer;Click+to+view+my+Portfolio+🚀" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj1312&show_icons=true&locale=en&layout=compact" alt="dhiraj1312" /></p>
+<h3 align="center">
+🚀 AI Engineer | Data Science Explorer | Code Innovator
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj1312&" alt="dhiraj1312" /></p>
+<p align="center">
+  <a href="https://portfolio-dhiraj1312.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀 View My Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhiraj1312&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🌱 Learning **Agentic AI & LLM Systems**
+- 🤖 Building **real-world AI applications**
+- 💬 ML | DL | NLP | DSA
+- ⚡ I build things, not just learn them
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhiraj-bhagat-116534257/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  
+  <a href="https://instagram.com/name_isdhiraj">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  
+  <a href="https://leetcode.com/dhiraj_bhagat1312/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="50"/>
+  </a>
+  
+  <a href="https://www.codechef.com/users/dhiraj1312">
+    <img src="https://img.icons8.com/fluency/48/codechef.png" height="50"/>
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="50"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,django,aws,docker,mongodb,mysql,git,tensorflow,pytorch" />
+</p>
+
+---
+
+## 🚀 Top Projects
+
+<p align="center">
+
+<a href="https://github.com/dhiraj1312/Agentic-Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj1312&repo=Agentic-Chatbot&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/dhiraj1312/Blog-Generation-using-LangGraph">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj1312&repo=Blog-Generation-using-LangGraph&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/dhiraj1312/Diamond_price_prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj1312&repo=Diamond_price_prediction&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/dhiraj1312/Word_Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj1312&repo=Word_Prediction&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj1312&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+---
+
+## 🔥 Quick Access
+👉 **Portfolio:** https://portfolio-dhiraj1312.vercel.app/  
+---
+
+## ⚡ Motto
+> Build → Learn → Improve → Repeat 🚀
